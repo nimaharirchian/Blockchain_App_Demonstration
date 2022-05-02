@@ -1,6 +1,6 @@
 # Blockchain_App_Demonstration
 ### Purpose
-Demonstration of building a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions between senders and receivers, and to verify the integrity of the data in the ledger. In this activity, I updated the original file that was completed throughout the blockchain module lesson. In this activity, I created a new dataclass that would serve as the blueprint for transactions that blocks of the ledger will store.
+Demonstration of building a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions between senders and receivers, and to verify the integrity of the data in the ledger. In this activity, I updated the original file that was completed throughout the blockchain module lesson. In this activity, I created a new dataclass that would serve as the blueprint for transactions that blocks of the ledger will store. Added user input for the streamlit application as well.
 ### Imports Required
 ___
 * pandas
