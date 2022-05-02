@@ -11,7 +11,7 @@ ___
 To run the application, be sure to be in the conda dev environment and then navigate to the folder that contains the pychain.py file. 
 Enter <img width="182" alt="Screen Shot 2022-05-01 at 5 03 59 PM" src="https://user-images.githubusercontent.com/95598560/166170173-21961fa4-3764-4cda-b9b9-5ae1497371f0.png"> to run the web application.
 ___
-### ***Blockchain App Screenshots*** Last image is screenshot of application after it has been deployed.
+### ***Blockchain App Screenshots***. The final image is screenshot of application after it has been deployed.
 
 ___
 <img width="1512" alt="Screen Shot 2022-05-01 at 4 20 31 PM" src="https://user-images.githubusercontent.com/95598560/166169912-f30d83e7-13c5-4bdc-821f-3c0186cd9b11.png">
